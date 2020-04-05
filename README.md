@@ -1,7 +1,7 @@
 Credited to 
-![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
+[Web Developer Roadmap - 2020](https://roadmap.sh/)
 
-
+Edited for my own goal setting 
 ## Frontend Roadmap
 
 ![Frontend Roadmap](./img/frontend.png?year-2020-2)
